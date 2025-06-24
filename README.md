@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Saketh P 👋
 
-<!--
-**dev-fusion-code/dev-fusion-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+B.Tech CSE Student | Passionate about App Development, UI/UX, and Backend Engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages**: Python, Java, C, C++, HTML, SQL
+- **Frameworks & Tools**: Django, REST APIs, Git
+- **Learning**: Data Structures, Databases, Figma, Computer Hardware & Networking
+
+---
+
+### 💡 Interests
+- 📱 Mobile App Development
+- 🖌 UI/UX Design
+- 🧠 Problem-Solving
+- 🎵 Music & Photography
+
+---
+
+> “Learning isn’t about knowing everything upfront — it’s about building as you learn.” 💭
