@@ -2,7 +2,7 @@
 
   <img src="./assets/header.svg" alt="Saketh P - Header Banner" width="100%" />
 
-  <br><br>
+  <br>
 
   <h1>Hi there, I'm Saketh P 👋</h1>
   <p><strong>devfusioncode</strong></p>
